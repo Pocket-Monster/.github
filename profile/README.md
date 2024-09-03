@@ -25,5 +25,10 @@
 - 3차 목표 : 
 
 ### 팀원 소개
+|<img src="https://avatars.githubusercontent.com/u/163099474?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/177918887?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/128693194?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/129265314?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|
+|이윤정|이경민|이선지|최민석|
+|전자공학과|전자공학과|소프트웨어학과|소프트웨어학과|
+|[E2YunJeong](https://github.com/E2YunJeong)|[ikmin](https://github.com/ikmin)|[Leeseonji](https://github.com/Leeseonji)|[MinSeokGod](https://github.com/MinSeokGod)|
 
 ### 프로젝트 소개
